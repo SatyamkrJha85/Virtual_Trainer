@@ -1,24 +1,32 @@
-# VirtuallTrainerCompose
+# VirtualTrainer App
 
-Simple app to display 3D model using ArCore, simulate app exercise.
-These models have an animation, and this can be paused and resumed.
+VirtualTrainer is an innovative app that leverages Jetpack Compose, Room database, and ARCore to display 3D models for exercise simulation. The models come with animations that can be paused and resumed, providing an interactive and engaging experience for users.
+
+## Features
+
+- **3D Model Display**: Utilize ARCore to display and interact with 3D models.
+- **Animation Control**: Pause and resume model animations.
+- **Modern UI**: Built with Jetpack Compose for a clean and responsive user interface.
+- **Data Persistence**: Store and manage data using Room database.
 
 ## Screenshots
-### Splash
-<p>
-  <img src="https://i.imgur.com/LWsCFN7.png" alt="splash" width="200"/>
-</p>
-### SignUp
-<p>
-  <img src="https://i.imgur.com/w7DcK1o.png" alt="signUp" width="200"/>
+
+<p align="center">
+  <img src="https://github.com/SatyamkrJha85/Virtual_Trainer/assets/111700337/9e70a1d8-f05d-49c6-b174-2b810bb90e3d" width="900dp" alt="App Screenshot"/>
 </p>
 
-### Main
-<p>
-  <img src="https://i.imgur.com/Ze0dyV0.png" alt="list exercise" width="200"/>
-  <img src="https://i.imgur.com/GZKHIs1.png" alt="scan site" width="200"/>
-  <img src="https://i.imgur.com/qFiMvDb.png" alt="description exercise" width="200"/>
-  <img src="https://i.imgur.com/kTVRU1Z.png" alt="model ready exercise" width="200"/>
-  <img src="https://i.imgur.com/8jcET6s.png" alt="model pause exercise" width="200"/>
-  <img src="https://i.imgur.com/3SmWCbK.png" alt="model pause exercise 2" width="200"/>
-</p>
+## Getting Started
+
+### Prerequisites
+
+Ensure you have the following installed:
+
+- Android Studio
+- Android SDK
+- ARCore SDK
+
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/SatyamkrJha85/Virtual_Trainer
