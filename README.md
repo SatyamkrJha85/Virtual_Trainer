@@ -19,7 +19,7 @@ VirtualTrainer is an innovative app that leverages Jetpack Compose, Room databas
 
 ### Prerequisites
 
-Ensure you have the following installed:
+Ensure you have the following installed::
 
 - Android Studio
 - Android SDK
